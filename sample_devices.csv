@@ -1,0 +1,5 @@
+tag,type,make_model,lab,status,condition,purchase_date,lifespan_years
+PC-L1-001,desktop,Dell OptiPlex 3020,Computer Lab 1,in_use,4,2020-02-10,6
+PC-L1-002,desktop,Dell OptiPlex 3020,Computer Lab 1,in_use,3,2020-02-10,6
+MON-L1-001,monitor,Dell 19in,Computer Lab 1,in_use,4,2020-02-10,8
+KB-L2-001,keyboard,Generic USB,Computer Lab 2,needs_repair,2,2018-05-01,5
